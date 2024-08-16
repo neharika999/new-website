@@ -3,5 +3,5 @@ title: "Test"
 author: "Harlow Malloc"
 date: "2024-08-16"
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "media.png"
 ---
